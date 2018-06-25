@@ -1,0 +1,3 @@
+D:\Epic Games\Animation\LowPolySpace\Source\LowPolySpace\LowPolySpace.Build.cs
+D:\Epic Games\Animation\LowPolySpace\Source\LowPolySpace.Target.cs
+D:\Epic Games\Animation\LowPolySpace\Source\LowPolySpaceEditor.Target.cs
